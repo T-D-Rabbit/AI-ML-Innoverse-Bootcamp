@@ -1,0 +1,29 @@
+This report will be analysing the steps over the span of 51 days.
+
+------------
+
+Your best day was 2024-01-04 with number of steps being 15234. Good job!
+
+However, your worst day was 2024-01-21, with number of steps being 5876. Don't worry, you've been doing great.
+
+------------
+
+Averages:
+
+
+Your average for week 1 was 10255.00.---> Better than last week! Good job.
+--
+Your average for week 2 was 10096.71.---> Not as good as last week, but that's okay. 
+--
+Your average for week 3 was 10026.00.---> Not as good as last week, but that's okay. 
+--
+Your average for week 4 was 10003.00.---> Not as good as last week, but that's okay. 
+--
+Your average for week 5 was 10037.71.---> Better than last week! Good job.
+--
+Your average for week 6 was 10339.00.---> Better than last week! Good job.
+--
+Your average for week 7 was 9625.00.---> Not as good as last week, but that's okay. 
+--
+
+While there was improvement over the weeks, you fell off more than you improved. You can do better!
