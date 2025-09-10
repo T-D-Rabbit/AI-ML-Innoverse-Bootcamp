@@ -75,4 +75,6 @@ if better>worse:
     file.write("\nYou showed an overall improvement over the weeks. Admirable!")
 else:
     file.write("\nWhile there was improvement over the weeks, you fell off more than you improved. You can do better!")
+
+file.close()
     
